@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.com',
   },
-  docsRepositoryBase: https://github.com/nniiicc/insc501',
+  docsRepositoryBase: 'https://github.com/nniiicc/insc501',
   footer: {
     text: 'Winter 2025',
   },
