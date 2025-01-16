@@ -6,9 +6,6 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/nniiicc/insc501',
   },
-  chat: {
-    link: 'https://discord.com',
-  },
   docsRepositoryBase: 'https://github.com/nniiicc/insc501',
   footer: {
     text: 'Winter 2025',
