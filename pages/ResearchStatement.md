@@ -1,6 +1,14 @@
 # Research Statement 
 
-Writing out a research statement is, in some ways, an indulgent exercise in self-presentation. But, its also a necessary and important aspect of developing a sense of self for a budding scientist. A research statement is declarative - it tells a reader who you are, what you do, and why you do it. There are endless permutations and examples of the research statement - but some common topics that scientists include are as follows: 
+In our [myepistemology.com](http://myepistemology.com/) exercise the second set of questions we considered were about the self. These asked
+1. How do we come to know ourselves? Is self-knowledge based on introspection, social feedback, or both?
+2. Is the self a stable, unchanging entity, or is it constantly evolving and adapting to new experiences?
+3. To what extent are our thoughts, beliefs, and actions determined by our environment, genetics, and personal choices?
+4. Can we ever have a completely objective understanding of ourselves, or are we always influenced by our subjective perspectives? 
+
+These questions can induce both eyerolling and head scratching. Answering them for ourselves is only one part of the challenge. Once we have a sense of how we feel about these kinds of questoins (as well as our own research beat) we need to figure out how to communicate our answers to our peers. That is, we need to clearly tell each other who we are, what we think, and how we do the work that we do. 
+
+Scientists typically do this through a research statement. The research statement is a common element of a personal website, a job application, and even a conference presentation. A good research statement is declarative - it tells a reader who you are, what you do, and why you do it. There are endless permutations and examples of the research statement, but some common topics that scientists include are as follows: 
 
 ## Academic Identity & Positioning
 
