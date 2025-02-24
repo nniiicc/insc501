@@ -20,8 +20,8 @@ This could be an entire course. In lieu of 10 weeks we'll constrain our discussi
 3. Given the ideological commitments of a public university - Why do we see so many disputes over labor? The easy answer here is "because capitalism" but that fails to deal with counter-examples from other public institutions. 
 
 **Readings**
-1. "Explaining the Historical Rise of the US University" the https://www.nber.org/digest/202105/explaining-historical-rise-us-research-universities (if you are so compelled read the working paper that is referenced in that overview)
-2. 'The New American University' by Crow and Dubaas - Introduction 'Solving X for U' and pages 17-27 (start of Ch. 1) [PDF](https://raw.githubusercontent.com/nniiicc/insc501/main/Crow.pdf) - Please note, I am not endorsing the views of this book but the Introduction and Chapter 1 sections are a succinct accounting for the political economy of contemporary university research. 
+1. ["Explaining the Historical Rise of the US University"](https://www.nber.org/digest/202105/explaining-historical-rise-us-research-universities) (If you are so compelled read the working paper that is referenced in that overview)
+3. 'The New American University' by Crow and Dubaas [PDF](https://raw.githubusercontent.com/nniiicc/insc501/main/Crow.pdf) Introduction (p 1-13) and Chapter 1 (p 17-27)
 
 **Extended reading list**
 - A general introduction to the University from the standpoint of "management" ... Lombardi, V (2013) How Universities Work - [PDF](https://raw.githubusercontent.com/nniiicc/insc501/main/how.pdf)
